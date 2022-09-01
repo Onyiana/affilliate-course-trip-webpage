@@ -1,2 +1,2 @@
 An affiliate site
-https://sandra-affiliate-studyandtriptocanada.netlify.app
+https://studyandtriptocanada.netlify.app
